@@ -1,0 +1,259 @@
+.maincontainer {
+	background-color: #d9d9d9;
+}
+
+.outer-div-pile {
+    width:200px;
+    height:200px;
+    border:1px solid blue;
+    position:relative;
+}
+
+.inner-div-pile {
+   left:50%;
+   top:50%;
+   -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   position:absolute;
+    background-color:grey;
+}
+
+.meme-thumbnail {
+	display: inline-block;
+  height: auto;
+  max-width: 100%;
+  margin: 4px;
+  padding: 4px;
+  line-height: 1.428571429;
+  background-color: #e6e6e6;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+}
+
+.meme-full-size {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  margin: 4px;
+  padding: 4px;
+  line-height: 1.428571429;
+  background-color: #e6e6e6;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+}
+
+.meme-full-sizer {
+  height: 10em;
+  width: 10em;
+}
+
+.main-view-spacer {
+  padding-bottom: 1em;
+}
+
+.custom-header {
+	  margin: 0.3em 0;
+  	font-size: 8em;
+  	font-family: Sugarpunch;
+  	text-align: center;
+}
+
+.custom-splash-header {
+    margin: 0.3em 0;
+    font-size: 8em;
+    font-family: Sugarpunch;
+    text-align: center;
+    margin-top: 2em;
+    color: white;
+}
+
+.custom-font-apply {
+  font-family: Sugarpunch;
+  font-size: 2em;
+}
+
+.custom-subheader {
+    font-size: 3.5em;
+    font-family: Sugarpunch;
+    text-align: center;
+}
+
+@font-face {
+    font-family: Sugarpunch;
+    src: url(fonts/SugarpunchDEMO.otf);
+}
+
+.fill { 
+    min-height: 100%;
+    height: 100%;
+}
+
+.outer-center {
+  width: 100%;
+  text-align: center;
+}
+
+.inner-center {
+  display: inline-block;
+}
+
+.main-custom {
+  background-color: #e6e6e6;
+  height: 100vh;
+}
+
+.greyscale-gradient {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,ffffff+50,000000+100&0.5+0,0.5+100 */
+  background: -moz-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(255,255,255,0.5) 50%, rgba(0,0,0,0.5) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0.5) 0%,rgba(255,255,255,0.5) 50%,rgba(0,0,0,0.5) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(255,255,255,0.5) 50%,rgba(0,0,0,0.5) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */
+}
+
+.white-override {
+  background-color: white;
+}
+
+.white-font-override {
+  color: white;
+}
+
+#upperBlock {
+  height: 28em;
+  width: 100%;
+  /*background-image: url(beaker.gif);*/
+  background-size: 100% 100%;
+  top: 10em;
+  display: flex;
+  justify-content: center;
+}
+
+/* John's Code Starts Here */
+
+/*
+body {
+    background-color: black;
+    margin-top: 0px;
+
+}
+@font-face {
+  font-family: titleFont;
+  src: url(fonts/SugarpunchDEMO.otf);
+}
+@font-face {
+  font-family: swagFont;
+  src: url(fonts/timeburner.ttf);
+}
+.container{
+}
+#navBar {
+  position: fixed;
+  margin: auto;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  left: 0;
+  right: 0;
+  height: 5em;
+  width: 98%;
+  background-color: #666666;
+  display: flex;
+  align-items: center;
+  z-index: 9999;
+}
+#upperBlock {
+  height: 28em;
+  width: 100%;
+  background-image: url(beaker.gif);
+  background-size: 100% 100%;
+  top: 10em;
+  display: flex;
+  justify-content: center;
+}
+#lowerBlock {
+  height: 40em;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: #eff0f2;
+}
+.titleText {
+  position: relative;
+  top: 0.57em;
+  color: white;
+  font-size: 10em;
+  font-family: titleFont;
+
+}
+.initial_navBar-Button {
+  background-color: #00f6ff;
+  height: 3.5em;
+  width: 8em;
+  border-radius: 15px;
+  margin-left: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.initial_navBar-Button:active {
+  background-color: #38ff59;
+  height: 3.5em;
+  width: 8em;
+  border-radius: 15px;
+  margin-left: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navBar-Button {
+  background-color: #00f6ff;
+  height: 3.5em;
+  width: 8em;
+  border-radius: 15px;
+  margin-left: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navBar-Button:active {
+  background-color: #38ff59;
+  height: 3.5em;
+  width: 8em;
+  border-radius: 15px;
+  margin-left: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttonText {
+  color: #666666;
+  font-size: 2em;
+  font-family: swagFont;
+}
+.final_navBar-Button {
+  background-color: #38ff59;
+  height: 3.5em;
+  width: 8em;
+  border-radius: 15px;
+  margin-left: 36.5em;
+  float: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.final_navBar-Button:active {
+  background-color: #00f6ff;
+  height: 3.5em;
+  width: 8em;
+  border-radius: 15px;
+  margin-left: 36.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+*/
