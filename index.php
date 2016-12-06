@@ -49,7 +49,7 @@
                                 And its effect on continental trade
                             </h3>
                         </a>
-                        <p class="post-meta">Content created by J.P. Sanders</p>
+                        <p class="post-meta">Content created by Jesse Wells and J.P. Sanders</p>
                     </div>
                     <hr>
                     <div class="post-preview">
@@ -66,6 +66,7 @@
                 </div>
             </div>
         </div>
+        
         <hr>
 
         <?php include "pagefooter.php"; ?>

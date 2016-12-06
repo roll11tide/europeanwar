@@ -35,7 +35,7 @@
 
                     <h2 class="section-heading">Fueling the British Navy</h2>
 
-                    <p>The British Empire was so large by the late 18th Century that the number of sailors needed to staff the ships that sailed around the world was not nearly enough. As a result, the British government decided to "supplement" the Navy with kidnappees. These included Americans, kidnapped from American ships and coastal cities and forced to serve aboard British ships. Nearly 6,000 Americans were impressed in the early 1800s, when Great Britain was at war with Emperor Napoleon of France. Naturally, Americans were outraged about this practice. It finally ended in 1815, with signing of the Treaty of Paris that ended the War of 1812.</p>
+                    <p>The British Empire was so large by the late 18th Century that the number of sailors needed to staff the ships that sailed around the world was not nearly enough. As a result, the British government decided to "supplement" the Navy with kidnappees. These included Americans, kidnapped from American ships and coastal cities and forced to serve aboard British ships. Nearly 6,000 Americans were impressed in the early 1800s, when Great Britain was at war with Emperor Napoleon of France. These men were crucial to the operation of the British navy and kept their ships manned throughout the War of 1812. Naturally, Americans were outraged by this practice. It finally ended in 1815, with signing of the Treaty of Paris that ended the War of 1812.</p>
 
                     <h2 class="section-heading">The Irony</h2>
 

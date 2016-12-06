@@ -26,6 +26,9 @@
                             <a href="1812.html.php">War of 1812</a>
                         </li>
                         <li>
+                            <a href="quiz.html.php">Quiz</a>
+                        </li>
+                        <li>
                             <a href="credit.html.php">Credit</a>
                         </li>
                     </ul>
