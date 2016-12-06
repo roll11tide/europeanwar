@@ -29,21 +29,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <p>Awaiting input paragraph.</p>
+                    <p>Impressment is the act or policy of seizing persons and compelling them to serve in the military, especially in naval forces. Impressment was one of the primary causes of the War of 1812.</p>
 
-                    <h2 class="section-heading">First Section</h2>
+                    <p>The Royal Navy impressed many men that were in the United States Navy. Impressment was very common with the British military in the past also. It helped to cause the war because it emphasized the fact that the British did not respect American sovereignty. The British navy had traditionally impressed men off of British ships and out of British port towns.</p>
 
-                    <p>Awaiting first section content.</p>
+                    <h2 class="section-heading">Fueling the British Navy</h2>
 
-                    <blockquote>Awaiting quote.</blockquote>
+                    <p>The British Empire was so large by the late 18th Century that the number of sailors needed to staff the ships that sailed around the world was not nearly enough. As a result, the British government decided to "supplement" the Navy with kidnappees. These included Americans, kidnapped from American ships and coastal cities and forced to serve aboard British ships. Nearly 6,000 Americans were impressed in the early 1800s, when Great Britain was at war with Emperor Napoleon of France. Naturally, Americans were outraged about this practice. It finally ended in 1815, with signing of the Treaty of Paris that ended the War of 1812.</p>
 
-                    <h2 class="section-heading">Second Section</h2>
+                    <h2 class="section-heading">The Irony</h2>
 
-                    <p>Awaiting second section content.</p>
-
-                    <span class="caption text-muted">Picture or video caption</span>
-
-                    <p>Awaiting second section content.</p>
+                    <p>The impressment of American sailors into the British navy was ironic in a couple ways. For one, there was a war almost immediately after the Embargo of 1807, resulting in the use of impressed American sailors to fight against their homeland in the name of the British navy. Before the War of 1812, American sailors were also used in the Napoleonic Wars. This is ironic because the Napoleonic Wars were the primary cause of the Embargo of 1807, as Britain and France were plundering Americans merchant ships with the justification of "collateral damage".</p>
 
                     <br>
 

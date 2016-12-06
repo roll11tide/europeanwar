@@ -41,7 +41,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <th>Programming, Design, Project Management</th>
+                            <th>Programming, Design, Project Management, and Content Polishing</th>
                             <th>Jesse Wells</th>
                         </tr>
                         <tr>
@@ -73,6 +73,15 @@
                         </tr>
                         <tr>
                             <th><a href="http://www.history.com/topics/war-of-1812/videos/americans-and-british-face-off-in-war-of-1812#">http://www.history.com/topics/war-of-1812/videos/americans-and-british-face-off-in-war-of-1812#</a></th>
+                        </tr>
+                        <tr>
+                            <th><a href="https://en.wikipedia.org/wiki/Embargo_Act_of_1807#Repealing_the_legislation">https://en.wikipedia.org/wiki/Embargo_Act_of_1807#Repealing_the_legislation</a></th>
+                        </tr>
+                        <tr>
+                            <th><a href="http://www.pbs.org/opb/historydetectives/feature/british-navy-impressment/">http://www.pbs.org/opb/historydetectives/feature/british-navy-impressment/</a></th>
+                        </tr>
+                        <tr>
+                            <th><a href="https://www.marinersmuseum.org/sites/micro/usnavy/08/08a.htm">https://www.marinersmuseum.org/sites/micro/usnavy/08/08a.htm</a></th>
                         </tr>
                     </tbody>
                 </table>
