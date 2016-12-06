@@ -1,5 +1,4 @@
-Website made using a modified bootstrap template
-Hosted out of Jesse's server room
+Website made using a modified bootstrap template - hosted out of Jesse's server room
 
 US History Project
 -Jesse Wells
